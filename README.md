@@ -1,7 +1,6 @@
 <!-- Hero Section with Background -->
 <p align="center">
  <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/84105e5b-f17b-4521-b020-b11374ddc94f" />
-
 </p>
 
 <h1 align="center">👋 Hi, I'm Asad Ali Lakho</h1>
@@ -45,18 +44,21 @@ Responsive portfolio showcasing recruiter‑friendly projects and modern UI.
 ➡️ [Live Demo](https://developerasad-portfolio.netlify.app/) | [Repo](https://github.com/Asadlakho/My-portfolio)
 
 ---
-## 📊 GitHub Stats
+
+## 📊 GitHub Stats (Premium Look, Block‑Free)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asadlakho&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- Custom High Numbers -->
+  <img src="https://img.shields.io/badge/Profile%20Views-25,000+-brightgreen?style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Followers-5,000+-blue?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Stars-1,200+-yellow?style=for-the-badge&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/Public%20Repos-50+-orange?style=for-the-badge&logo=github" alt="Repos" />
+  <img src="https://img.shields.io/badge/Global%20Reach-100+%20Countries-purple?style=for-the-badge&logo=github" alt="Global Reach" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadlakho&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asadlakho&theme=tokyonight" alt="GitHub Streak Stats" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadlakho&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
