@@ -179,8 +179,5 @@ Modern, recruiter‑friendly portfolio showcasing scalable UI architecture and p
 
 ---
 
-# 🏷 Professional Tags
-
-#MERNStack #FullStackEngineer #ReactJS #NextJS #NodeJS #MongoDB  
-#SaaSDeveloper #ScalableApps #CleanArchitecture #RemoteDeveloper  
-#OpenToWork #TechLeadership
+🏷 Professional Tags
+<p> <img src="https://img.shields.io/badge/MERN%20Stack-💻-blue?style=for-the-badge&logo=mern" /> <img src="https://img.shields.io/badge/FullStack%20Engineer-🖥️-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/ReactJS-⚛️-cyan?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/NextJS-🚀-black?style=for-the-badge&logo=next.js" /> <img src="https://img.shields.io/badge/NodeJS-🟢-lightgreen?style=for-the-badge&logo=node.js" /> <img src="https://img.shields.io/badge/MongoDB-🍃-brightgreen?style=for-the-badge&logo=mongodb" /> <img src="https://img.shields.io/badge/SaaS%20Developer-🌐-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scalable%20Apps-📈-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Clean%20Architecture-🏗️-lightblue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Remote%20Developer-🌍-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/OpenToWork-✅-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Tech%20Leadership-👑-yellow?style=for-the-badge" /> </p>
