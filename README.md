@@ -1,7 +1,7 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=🚀%20Asad%20Ali%20Lakho%20|%20Full-Stack%20Web%20Developer&fontSize=30&fontColor=ffffff" />
-</p>
+<!-- Hero Section -->
+<table>
+<tr>
+<td>
 
 # 👋 Hi, I'm Asad Ali Lakho  
 **Software Engineer | Full-Stack Web Developer (MERN + Next.js)**  
@@ -19,6 +19,16 @@
 - 🌐 Portfolio: [developerasad-portfolio.netlify.app](https://developerasad-portfolio.netlify.app/)  
 - 📩 Email: yourmail@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/asad-ali-lakho](https://www.linkedin.com/in/asad-ali-lakho-bb...)  
+
+</td>
+<td>
+
+<!-- Right Side Professional Developer Image -->
+<img src="https://cdn.pixabay.com/photo/2017/01/31/17/44/programming-2024210_1280.png" alt="Full Stack Developer Illustration" width="300" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -39,13 +49,6 @@ Production‑ready blog management system with authentication, role‑based acce
 ### 📌 Updated React Portfolio  
 Responsive portfolio showcasing recruiter‑friendly projects and modern UI.  
 ➡️ [Live Demo](https://developerasad-portfolio.netlify.app/) | [Repo](https://github.com/Asadlakho/My-portfolio)
-
----
-
-## 📸 Screenshots
-![Dashboard](https://github.com/Asadlakho/mern-blog-system/blob/main/frontend/public/dashboard.png?raw=true)  
-![Login](https://github.com/Asadlakho/mern-blog-system/blob/main/frontend/public/login.png?raw=true)  
-![Admin Panel](https://github.com/Asadlakho/mern-blog-system/blob/main/frontend/public/admin.png?raw=true)  
 
 ---
 
