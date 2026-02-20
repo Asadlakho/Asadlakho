@@ -1,5 +1,10 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=🚀%20Asad%20Ali%20Lakho%20|%20Full-Stack%20Web%20Developer&fontSize=30&fontColor=ffffff" />
+</p>
+
 # 👋 Hi, I'm Asad Ali Lakho  
-**Software Engineer | Full-Stack Web Developer (MERN)**  
+**Software Engineer | Full-Stack Web Developer (MERN + Next.js)**  
 
 🎓 Graduate in Computer Science — University of Sindh, Jamshoro  
 🚀 Specialized in building scalable SaaS applications, admin dashboards, and recruiter‑friendly portfolio projects.  
@@ -47,6 +52,7 @@ Responsive portfolio showcasing recruiter‑friendly projects and modern UI.
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asadlakho&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadlakho&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Asadlakho&theme=radical)  
 
 ---
 
