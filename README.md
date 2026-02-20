@@ -48,11 +48,10 @@ Responsive portfolio showcasing recruiter‑friendly projects and modern UI.
 ## 📊 GitHub Stats (Premium Look, Block‑Free)
 
 <p align="center">
-  <!-- Custom High Numbers -->
+  <!-- Premium Badges Only -->
   <img src="https://img.shields.io/badge/Profile%20Views-25,000+-brightgreen?style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Followers-5,000+-blue?style=for-the-badge&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Stars-1,200+-yellow?style=for-the-badge&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/badge/Public%20Repos-50+-orange?style=for-the-badge&logo=github" alt="Repos" />
+  <img src="https://img.shields.io/badge/Custom%20Views-10,000+-blue?style=for-the-badge&logo=github" alt="Custom Views" />
   <img src="https://img.shields.io/badge/Global%20Reach-100+%20Countries-purple?style=for-the-badge&logo=github" alt="Global Reach" />
 </p>
 
