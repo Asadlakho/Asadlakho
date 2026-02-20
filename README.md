@@ -1,24 +1,24 @@
 <!-- ================= HERO SECTION ================= -->
 
 <!-- Hero Section with Background -->
+<!-- Hero Section with Background -->
 <p align="center">
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5ejI0N2t5a3dlZHVqZHJ6c2w2czA4cXc0MTVoZGk3bXhrd3N1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" 
     alt="Developer Animation" 
     width="100%" 
-    height="380" 
+    height="320" 
     style="object-fit: cover; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,0.4);" 
   />
 </p>
 
 <h1 align="center">👋 Hi, I'm Asad Ali Lakho</h1>
-<h3 align="center">Software Engineer | Full-Stack Web Developer (MERN + Next.js)</h3>
-
+<h3 align="center">🚀 Software Engineer | Full-Stack Web Developer (MERN + Next.js)</h3>
 
 <p align="center">
-  🎓 Computer Science Graduate — University of Sindh, Jamshoro <br/>
-  🧠 Architecting Scalable SaaS Platforms & Production-Ready Systems <br/>
-  🌍 Available for Remote Roles (U.S. & Europe) | Open to Global Collaboration
+🎓 Computer Science Graduate — University of Sindh, Jamshoro <br/>
+🧠 Architecting Scalable SaaS Platforms & Production‑Ready Systems <br/>
+🌍 Available for Remote Roles (U.S. & Europe) | Open to Global Collaboration
 </p>
 
 ---
