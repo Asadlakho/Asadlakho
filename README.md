@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Code-Production%20Ready-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Scalability-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20Maintainable-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Experience-4%4B%20Years-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-orange?style=for-the-badge"/>
 
 </div>
 
