@@ -5,21 +5,13 @@
 
 Building scalable web applications with React, Node.js, Express.js, and MongoDB.
 
-```javascript
-const asad = {
-  role: "Full Stack Developer",
-  location: "Hyderabad, Sindh, Pakistan",
-  stack: ["React.js", "Node.js", "Express.js", "MongoDB"],
-  focus: [
-    "Full Stack Development",
-    "REST APIs",
-    "Authentication Systems",
-    "Real-Time Applications",
-    "AI-Assisted Development"
-  ],
-  openTo: ["Remote", "Onsite", "Freelance"]
-};
-```
+📍 **Location:** Hyderabad, Sindh, Pakistan
+
+💻 **Tech Stack:** React.js • Node.js • Express.js • MongoDB
+
+🎯 **Focus:** Full Stack Development • REST APIs • Authentication Systems • Real-Time Applications • AI-Assisted Development
+
+🤝 **Open To:** Remote • Onsite • Freelance
 
 ---
 
@@ -137,15 +129,13 @@ GitHub Copilot • Claude • ChatGPT • Gemini • Cursor AI
 
 ## Connect
 
-📧 Email: [asadlakho503@gmail.com](mailto:asadlakho503@gmail.com)
+📧 **Email:** [asadlakho503@gmail.com](mailto:asadlakho503@gmail.com)
 
-📱 WhatsApp Me: [+92 313 8320432](https://wa.me/923138320432)
+📱 **WhatsApp Me:** [+92 313 8320432](https://wa.me/923138320432)
 
-💼 LinkedIn:  
-[www.linkedin.com/in/asad-ali-lakho-bb9260281](https://www.linkedin.com/in/asad-ali-lakho-bb9260281)
+💼 **LinkedIn:** [www.linkedin.com/in/asad-ali-lakho-bb9260281](https://www.linkedin.com/in/asad-ali-lakho-bb9260281)
 
-🌐 Portfolio:  
-[developerasad-portfolio.netlify.app](https://developerasad-portfolio.netlify.app)
+🌐 **Portfolio:** [developerasad-portfolio.netlify.app](https://developerasad-portfolio.netlify.app)
 
 📍 Hyderabad, Sindh, Pakistan
 
