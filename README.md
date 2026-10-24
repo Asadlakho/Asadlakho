@@ -1,3 +1,4 @@
+
 # Hi, I'm Asad Ali Lakho 👋
 
 ### Full Stack Developer
@@ -109,29 +110,18 @@ GitHub Copilot • Claude • ChatGPT • Gemini • Cursor AI
 
 ## What I Work With
 
-✅ React.js
-
-✅ TypeScript
-
-✅ JavaScript
-
-✅ Node.js
-
-✅ Express.js
-
-✅ MongoDB
-
-✅ REST APIs
-
-✅ JWT Authentication
-
-✅ Socket.io
-
-✅ Docker
-
-✅ Git & GitHub
-
-✅ AI Development Tools
+- ✅ React.js
+- ✅ TypeScript
+- ✅ JavaScript
+- ✅ Node.js
+- ✅ Express.js
+- ✅ MongoDB
+- ✅ REST APIs
+- ✅ JWT Authentication
+- ✅ Socket.io
+- ✅ Docker
+- ✅ Git & GitHub
+- ✅ AI Development Tools
 
 ---
 
@@ -147,15 +137,15 @@ GitHub Copilot • Claude • ChatGPT • Gemini • Cursor AI
 
 ## Connect
 
-📧 Email: asadlakho503@gmail.com
+📧 Email: [asadlakho503@gmail.com](mailto:asadlakho503@gmail.com)
 
-📱 WhatsApp Me : +92 313 8320432
+📱 WhatsApp Me: [+92 313 8320432](https://wa.me/923138320432)
 
-💼 LinkedIn:
-www.linkedin.com/in/asad-ali-lakho-bb9260281
+💼 LinkedIn:  
+[www.linkedin.com/in/asad-ali-lakho-bb9260281](https://www.linkedin.com/in/asad-ali-lakho-bb9260281)
 
-🌐 Portfolio:
-developerasad-portfolio.netlify.app
+🌐 Portfolio:  
+[developerasad-portfolio.netlify.app](https://developerasad-portfolio.netlify.app)
 
 📍 Hyderabad, Sindh, Pakistan
 
