@@ -135,7 +135,7 @@ GitHub Copilot • Claude • ChatGPT • Gemini • Cursor AI
 
 💼 **LinkedIn:** [www.linkedin.com/in/asad-ali-lakho-bb9260281](https://www.linkedin.com/in/asad-ali-lakho-bb9260281)
 
-🌐 **Portfolio:** [developerasad-portfolio.netlify.app](https://developerasad-portfolio.netlify.app)
+🌐 **Portfolio:** [https://asadalidev.netlify.app/ ](https://asadalidev.netlify.app/)
 
 📍 Hyderabad, Sindh, Pakistan
 
